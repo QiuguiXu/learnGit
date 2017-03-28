@@ -7,3 +7,5 @@ Creating a new branch is quick and simple
 test conflict again end
 
 add merge
+
+xxxx
